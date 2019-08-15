@@ -1,5 +1,5 @@
 {
-  "type": "service",
+  "type": "daemon",
   "prerequisites": {
     "cpu": " ",
     "memory": " "
