@@ -16,6 +16,11 @@
   "urac_ACL": false,
   "provision_ACL": false,
   "oauth": false,
+  "schema": {
+    "myJob": {
+      "l": "My Job"
+    }
+  },
   "maintenance": {
     "port": {
       "type": "inherit"
