@@ -4,6 +4,7 @@
     "cpu": " ",
     "memory": " "
   },
+  "subType": "cronJob"
   "serviceName": "daemon",
   "serviceGroup": "daemon test",
   "servicePort": 5555,
@@ -17,9 +18,7 @@
   "provision_ACL": false,
   "oauth": false,
   "schema": {
-    "myJob": {
-      "l": "My Job"
-    }
+   
   },
   "maintenance": {
     "port": {
