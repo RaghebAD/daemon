@@ -17,6 +17,9 @@
   "urac_ACL": false,
   "provision_ACL": false,
   "oauth": false,
+  "tenant_Profile": true,
+  "subtype": "Subtype Daemon",
+  "tab": "kubernetes cronjob",
   "schema": {
    
   },
