@@ -19,7 +19,10 @@
   "oauth": false,
   "tenant_Profile": true,
   "subtype": "Subtype Daemon",
-  "tab": "kubernetes cronjob",
+  "tab": {
+    "main": "kubernetes cronjob",
+    "sub": "Subtype Daemon"
+  },
   "schema": {
    
   },
