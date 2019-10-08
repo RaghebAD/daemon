@@ -4,7 +4,7 @@
     "cpu": " ",
     "memory": " "
   },
-  "subType": "cronJob",
+  "subType": "kubernetes cronJob",
   "serviceName": "daemon",
   "serviceGroup": "daemon test",
   "servicePort": 5555,
